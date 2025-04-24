@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudiKasus-Modul-3-PPL
 REQUIREMENT MODUL 3
 Assalamualaiukum 
@@ -41,3 +42,6 @@ php artisan dusk:install
 buka terminal baru jalankan npm install
 
 Jalankan proyek laravel dengan perintah php artisan serve & npm run dev pada terminal/cmd yang berbeda
+=======
+# PPLModul3
+>>>>>>> c7d764173f01b8f6cfc8af00dd8a1d3c14fc1c76
